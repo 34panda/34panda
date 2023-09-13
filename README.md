@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner](banner1.jpg)
+![banner](banner1.png)
 <!--
 **34panda/34panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
