@@ -5,10 +5,18 @@
 ### Let's greet ourselves Pythonically, shall we?
 ```python
 def greeting(your_name):
-    return f"Hi {your_name}! my name is Daniel, nice to meet you!\n\
+    return f"Hi {your_name}! My name is Daniel, nice to meet you!\n\
     I am pleased to welcome you to my GitHub page"
+try:
+    print(greeting("insert_your_name"), end="!")
+except NameError:
+    print("You know you were supposed to change insert_your_name to your name right?\
+        \nRemember to use parenthesis too.\
+        \n\nDon't fret, it happens even to the best of us! :)")
 
-print(greeting("*insert_your_name*"), end=".")
+# correct output should look like:
+# Hi Bob! My name is Daniel, nice to meet you!
+#   I am pleased to welcome you to my GitHub page!
 ```
 ---
 
