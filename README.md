@@ -1,4 +1,13 @@
-# 👋 Hi there, I'm Daniel 👨‍💻
+<div id="header">
+    Hi there, i'm Daniel!
+<div>
+<style>
+    #header{
+        font-size: 34px;
+        color: black;
+        background: yellow;
+    }
+</style>
 
 ![Banner](banner2.png)
 
