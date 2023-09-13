@@ -21,7 +21,7 @@ except NameError:
 ---
 
 <!--## About Me-->
-![About Me](About_Me.png)
+![About Me](about_me.png)
 I'm a Computer Science ant deeply passionate about solving problems and building software solutions. I have a knack for 🛠️ coding, automating tasks, and 🌐 web development.
 
 ![Programmer](https://img.shields.io/badge/-Programmer-333333?style=for-the-badge)
@@ -52,7 +52,8 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ---
 
-## 🛠️ Technologies & Tools
+<!--## 🛠️ Technologies & Tools-->
+![🛠️ Technologies & Tools](technolohies&tools.png)
 
 ### IT 👨‍💻:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -106,7 +107,8 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 
 ---
-## 🚀 Some of My Projects
+<!--## 🚀 Some of My Projects-->
+![🚀 Some of My Projects](some_of_my_projects.png)
 
 - [LicencePy-Verify 🚧 :car: ](https://github.com/34panda/LicencePy-Verify)
 - [Personal Web Portfolio 🌐 👨‍🚀 ]() (Currently not active due to domain issues)
@@ -122,7 +124,8 @@ I'm a Computer Science ant deeply passionate about solving problems and building
   
 ---
 
-## 📈 My GitHub Stats (Just Starting!)
+<!--## 📈 My GitHub Stats (Just Starting!)-->
+![📈 My GitHub Stats (Just Starting!)](my_github_stats.png)
 
 <p>
     <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=34panda&theme=nord&show_icons=true&count_private=true&hide_border=true">
@@ -132,7 +135,8 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ---
 
-## 📫 How to reach me
+<!--## 📫 How to reach me-->
+![📫 How to reach me](how_to_reach_me.png)
 
 You can reach me at [\*mail during changes\*](), or on social media 👇
 
