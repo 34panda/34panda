@@ -35,7 +35,9 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ## Spoken Languages
 ![Polish](https://img.shields.io/badge/Polish-TAK_/_YES-00509E?style=for-the-badge&logo=wikipedia&logoColor=white)
+
 ![English](https://img.shields.io/badge/English-Yes-green?style=for-the-badge&logo=wikipedia&logoColor=white)
+
 ![Russian](https://img.shields.io/badge/Russian-Да_/_Yes-00509E?style=for-the-badge&logo=wikipedia&logoColor=white)
 
 ---
