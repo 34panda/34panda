@@ -20,7 +20,7 @@ except NameError:
 ```
 ---
 
-<--## About Me-->
+<!--## About Me-->
 ![About Me](About Me.png)
 I'm a Computer Science ant deeply passionate about solving problems and building software solutions. I have a knack for 🛠️ coding, automating tasks, and 🌐 web development.
 
