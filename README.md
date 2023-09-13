@@ -115,8 +115,11 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ## 📈 My GitHub Stats (Just Starting!)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=34panda&show_icons=true&count_private=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=34panda&layout=compact&theme=nord&hide_border=true)
+<p>
+    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=34panda&theme=nord&show_icons=true&count_private=true&hide_border=true">
+    <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=34panda&layout=compact&theme=nord&hide_border=true">
+</p>
+
 
 ---
 
