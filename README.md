@@ -25,9 +25,11 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Design](https://img.shields.io/badge/Design-Enthusiast-F50057?style=for-the-badge&logo=adobe&logoColor=white)
-![Human Resources](https://img.shields.io/badge/HR-Advocate-4CAF50?style=for-the-badge&logo=human-rights&logoColor=white)
 ![Project Leader](https://img.shields.io/badge/Project_Leader-Leading-orange?style=for-the-badge&logo=leader&logoColor=white)
+
+![Design](https://img.shields.io/badge/Design-Enthusiast-F50057?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Human Resources](https://img.shields.io/badge/HR-Advocate-4CAF50?style=for-the-badge&logo=human-rights&logoColor=white)
 
 ![Open for Collaboration](https://img.shields.io/badge/Always_Open_for_Collaboration!-brightgreen?style=for-the-badge&logo=users&logoColor=white)
 ![Lifelong Learner](https://img.shields.io/badge/Lifelong_Learner-better_every_day!-007ACC?style=for-the-badge&logo=minds&logoColor=white)
