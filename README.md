@@ -20,7 +20,8 @@ except NameError:
 ```
 ---
 
-## About Me
+<--## About Me-->
+![About Me](About Me.png)
 I'm a Computer Science ant deeply passionate about solving problems and building software solutions. I have a knack for 🛠️ coding, automating tasks, and 🌐 web development.
 
 ![Programmer](https://img.shields.io/badge/-Programmer-333333?style=for-the-badge)
