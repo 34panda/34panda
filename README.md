@@ -53,7 +53,7 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 ---
 
 <!--## 🛠️ Technologies & Tools-->
-![🛠️ Technologies & Tools](technolohies&tools.png)
+![🛠️ Technologies & Tools](technologies&tools.png)
 
 ### IT 👨‍💻:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
