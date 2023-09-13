@@ -24,6 +24,7 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Design](https://img.shields.io/badge/Design-Enthusiast-F50057?style=for-the-badge&logo=adobe&logoColor=white)
 ![Human Resources](https://img.shields.io/badge/HR-Advocate-4CAF50?style=for-the-badge&logo=human-rights&logoColor=white)
 ![Project Leader](https://img.shields.io/badge/Project_Leader-Leading-orange?style=for-the-badge&logo=leader&logoColor=white)
@@ -82,24 +83,16 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ### IDE's / Editors 🧑🏽‍💻:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### Problem Solving Tools:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
@@ -134,7 +127,9 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 You can reach me at [\*mail during changes\*](), or on social media 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-let's_talk!-FF572?style=for-the-badge&logo=github)](http://www.github.com/34panda)
+
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+
 [![Personal Website](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)](http://www.yourpersonalwebsite.com)
 
 ## ⚡ Fun fact: 
