@@ -110,25 +110,9 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 <!--## 🚀 Some of My Projects-->
 ![🚀 Some of My Projects](some_of_my_projects.png)
 
-<table border="1">
-  <thead>
-    <tr>
-      <th><a href="https://github.com/34panda/LicencePy-Verify">LicencePy-Verify 🚧 :car:</a></th>
-      <th><a href="https://github.com/34panda/docsify">RAIOT 🟡</a></th>
-      <th><a href="https://github.com/34panda/flutter_workout_app">Flutter Workout App 🏋️</a></th>
-      <th><a href="#">Personal Web Portfolio 🌐 👨‍🚀</a> (Currently inactive)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><div style="height: 50vmin;"><img src="https://github.com/34panda/LicencePy-Verify/blob/main/main-img.jpg?raw=true" alt="licencepy" style="max-height: 100%; width: auto;"></div></td>
-      <td><div style="height: 50vmin;"><img src="https://github.com/34panda/docsify/raw/main/web.png" alt="raiot" style="max-height: 100%; width: auto;"></div></td>
-      <td><div style="height: 50vmin;"><img src="https://github.com/34panda/flutter_workout_app/raw/main/assets/images/img1.png" alt="fitness1" style="max-height: 100%; width: auto;"></div></td>
-      <td><div style="height: 50vmin;"><img src="https://github.com/34panda/web/blob/main/assets/IMG_20230807_224350.jpg?raw=true" alt="web" style="max-height: 100%; width: auto;"></div></td>
-    </tr>
-  </tbody>
-</table>
-
+| [LicencePy-Verify 🚧 :car: ](https://github.com/34panda/LicencePy-Verify) |[RAIOT 🟡](https://github.com/34panda/docsify) | [Flutter Workout App 🏋️ ](https://github.com/34panda/flutter_workout_app) | [Personal Web Portfolio 🌐 👨‍🚀 ]() (Currently inactive) |
+|---|---|---|---|
+| ![licencepy](https://github.com/34panda/LicencePy-Verify/blob/main/main-img.jpg?raw=true) | ![raiot](https://github.com/34panda/docsify/raw/main/web.png) | ![fitness1](https://github.com/34panda/flutter_workout_app/raw/main/assets/images/img1.png) | ![web](https://github.com/34panda/web/blob/main/assets/IMG_20230807_224350.jpg?raw=true) |
 
   
 ## 🚀 Future Projects (Stay Tuned!)
