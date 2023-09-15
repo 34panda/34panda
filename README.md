@@ -24,8 +24,17 @@ except NameError:
 ![About Me](about_me.png)
 I'm a Computer Science ant deeply passionate about solving problems and building software solutions. I have a knack for 🛠️ coding, automating tasks, and 🌐 web development.
 
+>> "A person who likes walking, will walk further than the person who likes the destination"
+>
+> This sums up my entire career. I do what I love because the destination is merely a byproduct of my journey. That's why I only pursue what I'm interested in. 
+>
+> Because of that, I don't get tired, but rather love and cherish my job and hobbies, and I'm not afraid to try new things!
+
+
+
 ![Programmer](https://img.shields.io/badge/-Programmer-333333?style=for-the-badge)
 ![Student](https://img.shields.io/badge/-Student-blue?style=for-the-badge)
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,6 +49,12 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ![Open for Collaboration](https://img.shields.io/badge/Always_Open_for_Collaboration!-brightgreen?style=for-the-badge&logo=users&logoColor=white)
 ![Lifelong Learner](https://img.shields.io/badge/Lifelong_Learner-better_every_day!-007ACC?style=for-the-badge&logo=minds&logoColor=white)
+
+
+
+>>
+>
+>
 
 ---
 
@@ -148,3 +163,9 @@ You can reach me at [\*mail during changes\*](), or on social media 👇
 
 ## ⚡ Fun fact: 
 ### I love people, feel more then welcome to message me! :)
+
+> Last word of advice:
+>> "Be yourself; everyone else is already taken."
+>\- Oscar Wilde
+> <img src="https://images.unsplash.com/photo-1656336474827-b06115ca3994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2190&q=80" width="40%">
+
