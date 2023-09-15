@@ -110,7 +110,7 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 <!--## 🚀 Some of My Projects-->
 ![🚀 Some of My Projects](some_of_my_projects.png)
 
-| [LicencePy-Verify 🚧 :car: ](https://github.com/34panda/LicencePy-Verify) |[RAIOT 🟡](https://github.com/34panda/docsify) | [Flutter Workout App 🏋️ ](https://github.com/34panda/flutter_workout_app) | [Personal Web Portfolio 🌐 👨‍🚀 ]() (Currently inactive) |
+| [LicencePy-Verify 🚧 :car: ](https://github.com/34panda/LicencePy-Verify) |[RAIOT 🟡](https://github.com/34panda/docsify) | [Flutter Workout App 🏋️ ](https://github.com/34panda/flutter_workout_app) | [Personal Web Portfolio 🌐 👨‍🚀 ](https://github.com/34panda/web) (Currently inactive) |
 |---|---|---|---|
 | ![licencepy](https://github.com/34panda/LicencePy-Verify/blob/main/main-img.jpg?raw=true) | ![raiot](https://github.com/34panda/docsify/raw/main/web.png) | ![fitness1](https://github.com/34panda/flutter_workout_app/raw/main/assets/images/img1.png) | ![web](https://github.com/34panda/web/blob/main/assets/IMG_20230807_224350.jpg?raw=true) |
 
