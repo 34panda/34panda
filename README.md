@@ -24,7 +24,7 @@ except NameError:
 ![About Me](about_me.png)
 I'm a Computer Science ant deeply passionate about solving problems and building software solutions. I have a knack for 🛠️ coding, automating tasks, and 🌐 web development.
 
->> "A person who likes walking, will walk further than the person who likes the destination"
+>> _"A person who likes walking, will walk further than the person who likes the destination"_
 >
 > This sums up my entire career. I do what I love because the destination is merely a byproduct of my journey. That's why I only pursue what I'm interested in. 
 >
@@ -164,8 +164,10 @@ You can reach me at [\*mail during changes\*](), or on social media 👇
 ## ⚡ Fun fact: 
 ### I love people, feel more then welcome to message me! :)
 
-> Last word of advice:
->> "Be yourself; everyone else is already taken."
->\- Oscar Wilde
+> ##### Last word of advice:
+>> _"Be yourself; everyone else is already taken."_
+>>
+>>\- Oscar Wilde
+>
 > <img src="https://images.unsplash.com/photo-1656336474827-b06115ca3994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2190&q=80" width="20%">
 
