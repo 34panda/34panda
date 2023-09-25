@@ -169,5 +169,3 @@ You can reach me at [\*mail during changes\*](), or on social media 👇
 >>
 >>\- Oscar Wilde
 >
-> <img src="https://images.unsplash.com/photo-1656336474827-b06115ca3994?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2190&q=80" width="20%">
-
