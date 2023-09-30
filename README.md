@@ -136,7 +136,12 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 - 🌧️ Python Weather Prediction Program
 - 🔧 Python Automation Project
 - 🎮 Picade Pico-8 Game Update
-  
+
+## 🚀 Currently Workinh On
+
+- 🎮 Pico-8 Parkour Game
+- 🌐 Web Portfolio Fixes
+
 ---
 
 <!--## 📈 My GitHub Stats (Just Starting!)-->
