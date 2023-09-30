@@ -137,7 +137,7 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 - 🔧 Python Automation Project
 - 🎮 Picade Pico-8 Game Update
 
-## 🚀 Currently Workinh On
+## 🚀 Currently Working On
 
 - 🎮 Pico-8 Parkour Game
 - 🌐 Web Portfolio Fixes
