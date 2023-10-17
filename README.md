@@ -130,11 +130,6 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 | ![licencepy](https://github.com/34panda/LicencePy-Verify/blob/main/main-img.jpg?raw=true) | ![raiot](https://github.com/34panda/docsify/raw/main/web.png) | ![fitness1](https://github.com/34panda/flutter_workout_app/raw/main/assets/images/img1.png) | ![web](https://github.com/34panda/web/blob/main/assets/IMG_20230807_224350.jpg?raw=true) |
 
 
-## 🎮 I Recently Made a Game!
-
-|[✨ Check it out! ✨](https://34panda.github.io/pico-parkour/)|
-|--|
-|![game gif](https://github.com/34panda/pico-parkour/blob/main/public/raiot_2.gif?raw=true)|
 
 
   
@@ -149,6 +144,13 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 - 🎮 Pico-8 Parkour Game
 - 🌐 Web Portfolio Fixes
+
+
+## 🎮 I Recently Made a Game!
+
+|[✨ Check it out! ✨](https://34panda.github.io/pico-parkour/)|
+|--|
+|![game gif](https://github.com/34panda/pico-parkour/blob/main/public/raiot_2.gif?raw=true)|
 
 ---
 
