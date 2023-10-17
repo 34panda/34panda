@@ -172,9 +172,9 @@ You can reach me at [\*mail during changes\*](), or on social media 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-let's_talk!-FF572?style=for-the-badge&logo=github)](http://www.github.com/34panda)
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-ivzhenko-455876162/)
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)](http://www.yourpersonalwebsite.com)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)]()
 
 ## ⚡ Fun fact: 
 ### I love people, feel more then welcome to message me! :)
