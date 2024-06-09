@@ -36,6 +36,7 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 ![Student](https://img.shields.io/badge/-Student-blue?style=for-the-badge)
 
 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -94,6 +95,8 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 
 ### Design 🎨:
 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 ![Adobe](https://img.shields.io/badge/adobe_tools-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -135,18 +138,19 @@ I'm a Computer Science ant deeply passionate about solving problems and building
   
 ## 🚀 Future Projects (Stay Tuned!)
 
-- 🌐 Personal Portfolio - But better!
+- 🌐 Personal Portfolio - But better! (Maybe in 3D, maybe in 2D, who knows?)
 - 🌧️ Python Weather Prediction Program
 - 🔧 Python Automation Project
-- 🎮 Picade Pico-8 Game Update
+- 🎮 Picade Pico-8 Game Update (Or just a new, better game!)
 
 ## 🚀 Currently Working On
 
-- 🎮 Pico-8 Parkour Game
-- 🌐 Web Portfolio Fixes
+- Blender.
+- Blender.
+- Blender (I'm kinda obsessed at this point).
 
 
-## 🎮 I Recently Made a Game!
+## 🎮 I Made a Game!
 
 |[✨ Check it out! ✨](https://34panda.github.io/pico-parkour/)|
 |--|
@@ -168,13 +172,13 @@ I'm a Computer Science ant deeply passionate about solving problems and building
 <!--## 📫 How to reach me-->
 ![📫 How to reach me](how_to_reach_me.png)
 
-You can reach me at [\*mail during changes\*](), or on social media 👇
+You can reach me here! 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-let's_talk!-FF572?style=for-the-badge&logo=github)](http://www.github.com/34panda)
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-ivzhenko-455876162/)
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)]()
+[![Personal Website ](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)]()
 
 ## ⚡ Fun fact: 
 ### I love people, feel more then welcome to message me! :)
