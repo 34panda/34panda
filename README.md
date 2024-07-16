@@ -176,7 +176,7 @@ You can reach me here! 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-let's_talk!-FF572?style=for-the-badge&logo=github)](http://www.github.com/34panda)
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-ivzhenko-455876162/)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniil-ivzhenko/)
 
 [![Personal Website ](https://img.shields.io/badge/Personal_Website-Visit_Me-FF5722?style=for-the-badge&logo=google-chrome)]()
 
